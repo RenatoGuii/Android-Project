@@ -155,7 +155,7 @@ aside p {
 aside ul {
     padding: 10px;
     list-style-position: inside;
-    columns: 3;
+    columns: 2;
 }
 
 footer {
