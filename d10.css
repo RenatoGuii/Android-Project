@@ -83,6 +83,12 @@ main a:hover {
     text-decoration: underline;
 }
 
+main .img_alterar {
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+
 main {
     background-color: white;
     margin: auto;
